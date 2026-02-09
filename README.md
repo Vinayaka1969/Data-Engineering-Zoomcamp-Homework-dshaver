@@ -1,4 +1,5 @@
 HW3:
+
 Created external table with the following SQL:
 CREATE EXTERNAL TABLE IF NOT EXISTS dtc-de-course-485800.dtc_de_course_hw3.yellow_taxi_trip_data_2024
 (
