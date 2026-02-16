@@ -105,3 +105,5 @@ dist
 
 # parquet binaries from uv
 *.parquet
+
+*.db
